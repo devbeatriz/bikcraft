@@ -1,6 +1,5 @@
 .introducao-bg {
-  background: #000;
-  color: #FFF;
+  background: var(--cor-12);
   box-shadow: inset 0 -120px #FFF;
 }
 
@@ -29,23 +28,10 @@
 
 .introducao h1 {
   margin-bottom: 32px;
-  font-size: 4rem;
-  line-height: 1.125;
-  font-family: 'Poppins';
-  font-weight: 600;
-}
-
-.introducao h1 span {
-  color: #FFBB00;
 }
 
 .introducao p {
   margin-bottom: 20px;
-  font-size: 1.5rem;
-  line-height: 1.5;
-  color: #B2B2B2;
-  font-family: 'Roboto';
-  font-weight: 400;
 }
 
 @media (max-width: 1200px) {
