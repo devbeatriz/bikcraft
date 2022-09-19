@@ -12,6 +12,9 @@
 @import url('home/tecnologia.css');
 @import url('home/parceiros.css');
 
+/* Bicicleta */
+@import url('bicicleta/bicicleta.css');
+
 /* Bicicletas */
 @import url('bicicletas/bicicletas-lista.css');
 @import url('bicicletas/bicicletas.css');
