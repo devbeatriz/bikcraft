@@ -5,6 +5,10 @@
 
 <p align="center"><a href="https://bikcraft-five-peach.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
+## 📚 Aprendizado 
+   Sendo o maior e mais complexo projeto que já fiz, pude colocar em prática e reforçar meu conhecimento e aplicação prática sobre <br> **Git**, **Grid**, **CSS Utilitário**, **Responsividade** e **Organização do projeto**.
+
+
 ## :rocket: Tecnologias
  - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
  - [CSS](https://www.w3schools.com/css/)
