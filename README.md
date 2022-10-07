@@ -3,7 +3,7 @@
 
 ![bikcraft img](https://user-images.githubusercontent.com/94017930/192070701-6e204f3b-bcd7-4cd6-adb5-c0cdae0d0e8e.PNG)
 
-<p align="center"><a href="https://bikcraft-five-peach.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+<p align="center"><a href="https://bikcraft-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
 
 ## 📚 Aprendizado 
    Sendo o maior e mais complexo projeto que já fiz, pude colocar em prática e reforçar meu conhecimento e aplicação prática sobre **Git**, **Grid**, **CSS Utilitário**, **Responsividade** e **Organização do projeto**.
